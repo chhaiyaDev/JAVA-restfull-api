@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Chhaiya</h1>
 <h3 align="center">A passionate Software developer</h3>
 
+- 🌱 I’m currently learning **Java, NodeJs, Laravel, PHP, JavaScript, ReactJs, NextJs, VueJs, TailwandCSS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Chhaiya-Phai](https://github.com/Chhaiya-Phai)
+
+- 💬 Ask me about **Java, NodeJs and Laravel**
+
+- 📫 How to reach me **chhaiyaphai2412@gmail.com**
+
+- ⚡ Fun fact **I think I am a funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
